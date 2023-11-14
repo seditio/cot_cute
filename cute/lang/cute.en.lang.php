@@ -1,11 +1,11 @@
 <?php
 
 /**
- * English Language File for Systembyalias Plugin
- * @package systembyalias
- * @version 1.0
- * @author Andrey 'Macik' Matsovkin / Dmitri 'Kort' Beliavski
- * @copyright 2016 Cotonti Team
+ * English Language File for Cute Plugin
+ * @package cute
+ * @version 1.00
+ * @author Dmitri 'Kort' Beliavski
+ * @copyright 2023 sed.by
  * @license BSD
  */
 
